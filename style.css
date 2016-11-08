@@ -43,7 +43,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .caption-info{display: table-cell;vertical-align: middle;}
 .caption-info p{font-size: 1.25em;}
 .caption-info .btn i{margin-right:0.75em;}
-.carousel-inner > .item > img, .carousel-inner > .item > a > img{width: 100%; height: 50%}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{width: 100%;}
 .carousel-control{z-index:1000;}
 
 /*about*/

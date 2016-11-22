@@ -37,7 +37,7 @@ h4 {
 }
 
 .right p {
-	margin-left: 1px;
+	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
 	font-family: Garamond, serif;
@@ -58,7 +58,7 @@ a:hover {
 	margin-top: 50px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color: #b3daff;
 	margin-bottom: 10px;
 }
 

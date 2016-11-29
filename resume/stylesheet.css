@@ -72,7 +72,9 @@ a:hover {
 	background-color: #ffccb3;
 	margin-bottom: 10px;
 }
-
+ol {
+	text-decoration:none;
+}
 #footer {
 	position: relative;
 	height: 50px;

@@ -74,6 +74,7 @@ a:hover {
 }
 a {
 	text-decoration: none;
+	color:#ffffff;
 }
 #footer {
 	position: relative;
